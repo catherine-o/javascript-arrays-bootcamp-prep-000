@@ -24,3 +24,4 @@ function accessElementInArray(array, index) {
   var access = array[index];
   return access;
 }
+
